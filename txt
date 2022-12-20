@@ -1,0 +1,182 @@
+1.  Jr. Front End Developer (FULL TIME-REMOTE)
+    As a Jr Dev at our company, you will be helping our ad buyer team create landing pages, modify landing pages, and work on different automations. This interview requires that you fill it out in detail, it will help us out a lot to learn about you and your skills. Don't rush, take your time please.
+    Full Name \*
+    Marko
+    First Name
+
+Meseldžija
+Last Name
+Current Address
+Zoje Mirosavljević
+Street Address
+24
+Street Address Line 2
+Veternik
+City
+
+Vojvodina
+State / Province
+21000
+Postal / Zip Code
+
+Serbia
+Country
+Birth date \*
+
+November
+Month
+
+2
+Day
+
+2001
+Year
+Email Address _
+markomesa01@gmail.com
+Skype or Telegram username: _
+https://join.skype.com/invite/E48CsCgaZJCM
+A skype account is a must, as we use that to communicate with our team.
+Upload CV \*
+CV_Marko-Meseldžija_compressed.pdf
+Please upload your Resume/CV
+Next
+Jotform Logo
+Now create your own Jotform - It's free!
+Create your own Jotform
+
+---
+
+2.
+3. Jr. Front End Developer - Questions
+   Please tell us more about yourself, in this section we'd like to learn about your experiences and skills.
+   Why are you interested in the Jr. Front End Dev Assistant position? _
+   I'm passionate about building great User Interface on the Web and I'm looking to get more experience & knowledge in this field.
+   Do you have experience with any of the following (check all that apply) _
+
+HTML
+
+CSS
+
+PHP
+
+Javascript
+
+jQuery
+
+Python
+
+mySQL
+
+Git
+
+DreamWeaver
+
+Making Tiktok Videos or Instagram Reels
+
+Editing Videos
+
+Editing Audio
+
+Tiktok Ads
+
+Facebook Ads
+
+Google Ads
+
+Native Ads (Outbrain, Taboola, Revcontent, etc)
+
+Creative Writing
+
+Adobe Photoshop
+
+Adobe Illustrator
+
+TimeDoctor.com
+
+Clickfunnels
+
+Shopify
+
+WooCommerce
+
+Wordpress
+
+Camtasia
+
+FTP Uploading/Downloading
+
+Cpanel
+
+Cloudflare/DNS setup
+
+Webpack, TypeScript, React, GraphQL, Bootstrap, Sass, Figma
+
+What are you most experienced at? _
+Frontend Web Development and UI/UX Design
+How many years experience do you have working as a programmer? _
+1
+Where did you learn how to code? \*
+https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css
+https://www.freecodecamp.org/learn/2022/responsive-web-design/
+Youtube, Google, Documentations...
+
+If you worked a previous job, what was your daily workflow? What was required from you in the morning, middle, and end of day? _
+I haven't worked a previous job in Frontend Web Development role.
+What is the reason you wish to leave or left your current/last employer? _
+I want to work and learn in a tech field I love.
+If you make a mistake and are told about it, how do you make sure you don't make the same mistake again? _
+I will remember it, or write it down as note and everyday read it until I rememebr it.
+What sites do you visit each day when you wake up? What are your go to resources to learn new things or get help ? _
+google.com
+youtube.com
+twitter.com
+linkedin.com
+gatsbyjs.com
+developer.mozilla.org
+medium.com
+
+What is your typing speed? (words per minute) _
+40
+Use this to check your speed https://www.speedtypingonline.com/typing-test
+What do you enjoy the most about coding? _
+Learning something new every single day, that feeling when problem is solved & making web great place. 3. Getting to Know You
+The questions below are important so we get to know more about you and your personality.
+What is your typical day like? _
+When I woke up, I eat breakfast, read tech news, find ispiration and start coding. In breaks from coding, I do exercises. When I finish coding, I'm going outside, walking with friends.
+What do you enjoy doing the most? What are your hobbies? _
+I enjoy watching tennis, basketball and football. My hoby is car sketching.
+What do you think is a fair starting salary for a Jr Dev? _
+800$
+Please share your Facebook/Instagram/Tiktok profile links: _
+linkedin.com/in/markom01
+twitter.com/marko_m_01
+facebook.com/markom001
+instagram.com/mare_mesa_01
+
+Portfolio: marko.gatsbyjs.io 4. Sample Tasks
+Instructions: Please complete all tasks below. They are super simple and shouldn't take a long time for someone that knows coding.
+Ultra Simple Landing Page using Responsive HTML/CSS
+
+Remake this landing page: https://myroutinedaily.com/melts in clean code.
+
+Re-use the same images, and same text you see on the lander.
+
+Code must be responsive on both desktop/mobile.
+
+When done, upload it to your webserver and paste the link below to the lander so we can review it:
+
+URL to lander:
+If you had to make an automation, to pull data via API and put it into google sheets, what coding language would you use and why?
+
+Creative Team Confusion by Simple Variables in URL.
+
+Problem: Team gets confused by the different variables available on a website. We need a solution, that is fool proof.
+
+As a coder, your task is to the solve the above challenge, what would you do and why?
+
+Comments: Have any questions for us? Leave them in the box below!
+Submit my Application
+Back
+Jotform Logo
+Now create your own Jotform - It's free!
+Create your own Jotform
